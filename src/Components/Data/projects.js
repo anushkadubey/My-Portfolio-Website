@@ -15,6 +15,6 @@ export const ProjectData=[
         tags:["Express", "MongoDB", "NodeJs"],
         github:"www.github.io",
         demo:"",
-        image:require("../../Assets/R.jpg")
+        image:require("../../Assets/project2.jpg")
     }
 ]
