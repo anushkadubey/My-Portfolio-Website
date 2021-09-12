@@ -4,7 +4,7 @@ export const ProjectData=[
         title:"A Microsoft Teams Clone",
         about:"A react based clone of Microsoft Teams. It just has the UI for now, I am working on making it more functional.",
         tags:["CSS", "JavaScript", "React"],
-        github:"www.github.io",
+        github:"https://github.com/anushkadubey/Microsoft-Teams-Clone",
         demo:"",
         image:require("../../Assets/project1.png")
     },
