@@ -13,7 +13,7 @@ export const ProjectData=[
         title:"A Dance Website with Registration Form",
         about:"A vey basic dance website having a registration form, build using Javascript, node JS and express. It stores user data using Mongo database.",
         tags:["Express", "MongoDB", "NodeJs"],
-        github:"www.github.io",
+        github:"https://github.com/anushkadubey/Dance-Website",
         demo:"",
         image:src={require("../../Assets/project2.png").default}
     }
