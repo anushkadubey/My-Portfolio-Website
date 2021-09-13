@@ -11,7 +11,7 @@ function Contact() {
             <div className="contactTop">
                 <label className="sectionTitle">Contact</label>               
                 <div className="email">Email: anushka16dubey@gmail.com</div>
-                <div className="resume"><a download href={require(".././../../Assets/resume.pdf").default}>
+                <div className="resume"><a download href={require(".././../../Assets/Resume.pdf").default}>
                     <i className="fi-rr-cloud-download download-icon" />Download Resume
                     </a></div>
                 <div className="contactHeading">Get in touch with me on my socials!</div>
