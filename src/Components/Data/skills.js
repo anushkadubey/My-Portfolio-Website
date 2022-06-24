@@ -1,15 +1,31 @@
 export const SkillsData=[
     {
+        type:"Languages",
+        list: [
+            {
+                name: "C",
+                icon: <i class="devicon-c-plain colored"></i>
+            },
+            {
+                name: "C++",
+                icon: <i class="devicon-cplusplus-plain colored"></i>
+            },
+            {
+                name: "JAVASCRIPT",
+                icon: <i className="devicon-javascript-plain colored"></i>
+            }
+        ],
+    },
+    {
         type:"Frontend",
         list: [
             {
                 name: "CSS",
                 icon: <i className="devicon-css3-plain"></i>
             },
-            
             {
-                name: "JAVASCRIPT",
-                icon: <i className="devicon-javascript-plain colored"></i>
+                name: "HTML",
+                icon: <i class="devicon-html5-plain colored"></i>
             },
             {
                 name: "REACT JS",
