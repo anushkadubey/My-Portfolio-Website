@@ -4,7 +4,7 @@
     align-items: flex-start;
     flex:1;
     padding: 12px;
-    position: sticky;
+    position: relative;
     height: 60px;
 }
 .menu{
