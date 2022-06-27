@@ -4,11 +4,11 @@ export const SkillsData=[
         list: [
             {
                 name: "C",
-                icon: <i class="devicon-c-plain colored"></i>
+                icon: <i className="devicon-c-plain colored"></i>
             },
             {
                 name: "C++",
-                icon: <i class="devicon-cplusplus-plain colored"></i>
+                icon: <i className="devicon-cplusplus-plain colored"></i>
             },
             {
                 name: "JAVASCRIPT",
@@ -25,7 +25,7 @@ export const SkillsData=[
             },
             {
                 name: "HTML",
-                icon: <i class="devicon-html5-plain colored"></i>
+                icon: <i className="devicon-html5-plain colored"></i>
             },
             {
                 name: "REACT JS",
