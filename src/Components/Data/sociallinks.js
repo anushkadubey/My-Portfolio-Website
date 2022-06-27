@@ -13,10 +13,5 @@ export const SocialLinks=[
     platfoyrm:"Twitter",
     link:"https://twitter.com/anushkaaadubey",
     icon:require("../../Assets/twitter.png").default
-    },
-    {
-    platform:"Facebook",
-    link:"https://www.facebook.com/anushka.dubey.37266",
-    icon:require("../../Assets/facebook.png").default
     }
 ]
