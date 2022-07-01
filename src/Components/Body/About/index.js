@@ -12,7 +12,7 @@ function About() {
             <p>I'm a constant learner. The belief that motivates me to code is that my solution might somehow become a part of the technological advancements in our society.</p>
             </div>
             <div className="aboutPicture">
-                <img src={require("../../../Assets/Codinganime.png").default} alt="" className="aboutPictureLogo" />
+                <img src={require("../../../Assets/Codinganime.png")} alt="" className="aboutPictureLogo" />
         </div>
         </div>
     );

@@ -6,7 +6,7 @@ export const ProjectData=[
         tags:["CSS", "JavaScript", "React"],
         github:"https://github.com/anushkadubey/Microsoft-Teams-Clone",
         demo:"https://microsoft-teamsclone.netlify.app",
-        image:require("../../Assets/project1.png").default
+        image:require("../../Assets/project1.png")
     },
     {
         id:2,
@@ -15,6 +15,6 @@ export const ProjectData=[
         tags:["Express", "MongoDB", "NodeJs"],
         github:"https://github.com/anushkadubey/Dance-Website",
         demo:"",
-        image:require("../../Assets/project2.png").default
+        image:require("../../Assets/project2.png")
     }
 ]
