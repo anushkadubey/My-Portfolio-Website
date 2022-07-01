@@ -42,6 +42,10 @@
     margin-top: 6px;
     display: flex;
 }
+.projectGit{
+    margin-top: 6px;
+    display: flex;
+}
 .linkButton{
     display: flex;
     justify-content: center;
@@ -53,8 +57,23 @@
     font-size: 16px;
     margin-right: 6px;
 }
-
+.GitButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(180, 238, 238);
+    width:max-content;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-right: 6px;
+}
 .linkButton i{
+    display: flex;
+    align-items: center;
+    margin-right: 4px;
+}
+.GitButton i{
     display: flex;
     align-items: center;
     margin-right: 4px;

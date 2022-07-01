@@ -5,7 +5,7 @@ export const ProjectData=[
         about:"A reactJS based clone of Microsoft Teams' UI. I am working on adding more functionality to it.",
         tags:["CSS", "JavaScript", "React"],
         github:"https://github.com/anushkadubey/Microsoft-Teams-Clone",
-        demo:"",
+        demo:"https://microsoft-teamsclone.netlify.app",
         image:require("../../Assets/project1.png").default
     },
     {

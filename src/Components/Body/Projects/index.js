@@ -18,7 +18,7 @@ function Projects() {
                              <div className="projectLinks">
                              {project.demo && (<a href={project.demo} className="projectLink">
                                  <div className="linkButton">
-                                 <i className="fi-rr-globe"></i>Demo
+                                 <i className="fi fi-br-globe"></i>Demo
                                  </div>
                                  </a>)}
                                 {project.github && (<a href={project.github} className="projectGit">
@@ -26,7 +26,7 @@ function Projects() {
                                  <i className="devicon-github-original colored"></i>Github
                                  </div>
                                  </a>)}
-                            </div>
+                             </div>
                             <p>{project.about}</p>
                             <div className="projectTags">
                                 {project.tags.map((tag)=>{

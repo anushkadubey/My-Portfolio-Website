@@ -5,13 +5,13 @@ export const SocialLinks=[
         icon:require("../../Assets/github.png").default
     },
     {
-    platform:"LinkedIn",
-    link:"https://www.linkedin.com/in/anushka-dubey-472425192/",
-    icon:require("../../Assets/linkedin.png").default
+        platform:"LinkedIn",
+        link:"https://www.linkedin.com/in/anushka-dubey-472425192/",
+        icon:require("../../Assets/linkedin.png").default
     },
     {
-    platfoyrm:"Twitter",
-    link:"https://twitter.com/anushkaaadubey",
-    icon:require("../../Assets/twitter.png").default
+        platform:"Twitter",
+        link:"https://twitter.com/anushkaaadubey",
+        icon:require("../../Assets/twitter.png").default
     }
 ]
