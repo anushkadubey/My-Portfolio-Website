@@ -18,7 +18,7 @@ function Projects() {
                              <div className="projectLinks">
                              {project.demo && (<a href={project.demo} className="projectLink">
                                  <div className="linkButton">
-                                 <i className="fi fi-br-globe"></i>Demo
+                                 <i className="fi fi-br-globe"></i>Link
                                  </div>
                                  </a>)}
                                 {project.github && (<a href={project.github} className="projectGit">
